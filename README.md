@@ -1,2 +1,2 @@
 # php-form-creation
-Form framework in PHP
+Some functions for streamlining form creation, with some additional functions for a specific client project. 
